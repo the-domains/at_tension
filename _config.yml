@@ -1,0 +1,28 @@
+name: at_tension
+favicon: null
+layout_spectrum: 0.4031613855622709
+typography_spectrum: 0.05688553210347891
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.7432457597460598
+  lightness: 0.6392692178487778
+  saturation: 0.18790715257637203
+  rhythmicContrast: 0.9538955925963819
+purpose: []
